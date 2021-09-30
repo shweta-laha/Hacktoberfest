@@ -8,7 +8,7 @@ Thanks for your interest in contributing in our rep! Here are some steps to help
 # 💡Rules To Contribute To This Repo
 
 - Use any language.
-- C,JAVA, Data Structure and Algorithms, html
+- C,JAVA, Data Structure and Algorithms, html, React
 - Anything valuable.
 
 # 🔘Steps for Contribution
