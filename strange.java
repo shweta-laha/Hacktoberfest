@@ -4,8 +4,7 @@ import java.lang.Math;
 public class strange{    
  public static void main(String args[])
  {
-	 Scanner input= new Scanner(System.in);
-	 int n=input.nextInt();
+	
 	int max_prime=largestPrimeFactor(n);
 	if(max_prime>Math.sqrt(n)) {
 		System.out.print("Strange");
