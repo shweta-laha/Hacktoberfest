@@ -12,11 +12,12 @@ Thanks for your interest in contributing in our rep! Here are some steps to help
 - Anything valuable.
 
 # 🔘Steps for Contribution
-1. Fork this repo
-2. Star this repo
-3. Add a file
-4. commit the code
-5. Make pull request
+1. Star this repo
+2. Fork this repo
+3. Star this repo
+4. Add a file
+5. commit the code
+6. Make pull request
 
 
 # Keep Contributuing 🚀
