@@ -28,5 +28,5 @@
   npm run start
   ```
   
-  The scripts will be compiled and your project will start add localhost at port 3000.
+  The scripts will be compiled and your project will start on your localhost at port 3000.
  
