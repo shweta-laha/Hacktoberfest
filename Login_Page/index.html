@@ -14,7 +14,10 @@
       crossorigin="anonymous"
       function myFunction() 
       {
-      location.replace("https://github.com/shweta-laha/Hacktoberfest/Login_Page/forgetpassword.html"
+      location.replace("https://github.com/shweta-laha/Hacktoberfest/Login_Page/forgetpassword.html",
+      function myFunction2() 
+      {
+      location.replace("https://github.com/shweta-laha/Hacktoberfest/Login_Page/signup.html"
       </script>
     <style>
       #main {
@@ -183,7 +186,7 @@
             <label for="username">Username</label><br />
             <div class="text1">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Type your username" />
+              <input type="text" id="fname" name="fname" placeholder="Type your username"><br>
             </div>
           </div>
           <div class="text">
@@ -208,16 +211,15 @@
               <a href="https://mail.google.com/"
                 ><img src="google.png" alt=""
               /></a>
-              <!-- <button><img src="facebook.png" alt="" /></button>
-              <button><img src="twitter.jpg" alt="" /></button>
-              <button><img src="google.png" alt="" /></button> -->
+              <a href="https://www.icloud.com/"
+                ><img src="apple-logo.jpg " alt=""
+              /></a>
             </div>
           </div>
-          <div class="spacer"></div>
           <div class="sign_up">
             Or Sign Up Using <br />
             <!-- <a href="#">SIGN UP</a> -->
-            <button class="btn">SIGN UP</button>
+            <button class="btn" onclick= "myFunction2()">SIGN UP</button>
           </div>
         </form>
       </div>
